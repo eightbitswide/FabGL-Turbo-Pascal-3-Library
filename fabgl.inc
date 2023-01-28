@@ -126,6 +126,7 @@ procedure SPRITEDATA(sprdata:Workstring); begin
         if datn = 'D' then write('B2'); {Magenta}
         if datn = 'E' then write('E1'); {Purple}
         if datn = 'F' then write('FF'); {White}
+        if datn = '$' then write('$');  {EOS}
       end;
 
 end;
