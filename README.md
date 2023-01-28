@@ -14,6 +14,8 @@ Ansi Terminal Mods: https://github.com/eightbitswide/FabGL-AnsiTerminal-Mods-
 * Adds a simple 16 color font definition.
 * Adds the ability to load font data from code or external text file.
 <BR><BR>
+<I>Note: I'm a Turbo Pascal beginner.  While code has been tested to work, it is likely not optimized.</i>
+BR><BR>
 ## Procedures:
 <BR>
 
