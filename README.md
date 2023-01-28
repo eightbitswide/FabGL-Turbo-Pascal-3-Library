@@ -236,3 +236,11 @@ Important Note:
 An APPLY command must be send to make the make the SCREEN changes happen.
 
 </pre>
+<B>APPLY;</B>
+<pre>
+
+Must be executed after use of the SCREEN command. 
+
+</pre>
+  
+  
