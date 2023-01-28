@@ -7,6 +7,8 @@ Supports most of the graphics/sound FabGL Specific Terminal Sequences in Ansi Te
 Also supports the additional resolution/font change capability of Ansi Terminal Mod.
 
 FabGL Terminal Sequences: http://www.fabglib.org/special_term_escapes.html <BR>
+
+  Commands <B>SCREEN</B> & <B>APPLY</B> require Ansi Terminal Mods Version of Ansi Terminal.
 Ansi Terminal Mods: https://github.com/eightbitswide/FabGL-AnsiTerminal-Mods-
 
 * Adds a simple 16 color font definition.
