@@ -245,4 +245,32 @@ Must be executed after use of the SCREEN command.
 
 </pre>
   
-  
+  <B>PEN(RED,GREEN,BLUE);</B>
+  <BR>
+  <B>BRUSH(RED,GREEN,BLUE);</B>
+  <BR>
+    <B>RECT(X1,Y1,X2,Y2);</B>
+  <BR>
+    <B>FILLRECT(X1,Y1,X2,Y2);</B>
+  <BR>
+    <B>LINE(X1,Y1,X2,Y2);</B>
+  <BR>
+    <B>CURSOR(0/1);</B>
+  <BR>
+    <B>CLS;</B>
+  <BR>
+    <B>HOME;</B>
+  <BR>
+    <B>CLEAR;</B>
+  <BR>
+    <B>PLOT(X,Y);</B>
+  <BR>
+    <B>SCROLL<offsetX,offsetY);</B>
+  <BR>
+    <B>ELLIPSE(X1,Y1,WIDTH,HEIGHT);</B>
+  <BR>
+    <B>FILLELLIPSE(X1,Y1,WIDTH,HEIGHT);</B>
+  <BR>
+    <B>PLAY(WAVEFORM,FREQ,DURATION,VOLUME);</B>
+  <BR>
+    
