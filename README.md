@@ -16,8 +16,10 @@ Ansi Terminal Mods: https://github.com/eightbitswide/FabGL-AnsiTerminal-Mods-
 <BR><BR>
 <I>Note: I'm a Turbo Pascal beginner.  While code has been tested to work, it is likely not optimized.</i>
 <BR>
+  
 ## Procedures:
-<BR>
+
+  <BR>
 
 <B>SPRITECOUNT(X);</B>
 <pre>
