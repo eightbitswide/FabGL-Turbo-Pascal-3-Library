@@ -227,7 +227,7 @@ Parameters: (font)
      * Wiggly 8x16 
 
 Example:
-  // make sprite 0 visible at position 50,120 with first added bitmap
+  // make resolution 320x200, 64 Colors with VGA 8x8 font and Apply.
   SCREEN('320x200x64');
   SCREEN('VGA 8x8');
   APPLY;
