@@ -244,6 +244,8 @@ An APPLY command must be send to make the make the SCREEN changes happen.
 Must be executed after use of the SCREEN command. 
 
 </pre>
+
+## Additional Commands:
   
   <B>PEN(RED,GREEN,BLUE);</B>
   <BR>
